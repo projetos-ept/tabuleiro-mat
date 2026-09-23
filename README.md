@@ -1,9 +1,3 @@
-Aqui está a documentação completa e detalhada do projeto **Jornada Matemática - Gerador de Tabuleiros PRO**. 
-
-Você pode salvar este conteúdo em um arquivo `README.md` se for hospedar o projeto no GitHub, ou guardá-lo como um manual de referência.
-
----
-
 # 🎲 Jornada Matemática - Gerador de Tabuleiros PRO
 
 ## 📌 Visão Geral
